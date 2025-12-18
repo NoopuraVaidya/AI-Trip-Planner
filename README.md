@@ -63,6 +63,7 @@ AI-Trip-Planner/
 │   └── save_to_document.py
 └── README.md
 
+
 Setup
 Prerequisites
 
