@@ -1,4 +1,3 @@
-Perfect. Below is a **fully structured, visually clean, copy-paste ready README** with **clear section dividers**, consistent headings, and a professional open-source look.
 AI Trip Planner
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
