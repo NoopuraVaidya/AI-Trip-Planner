@@ -31,7 +31,7 @@ setup(
     name="AI-TRAVEL-PLANNER",
     version="0.0.1",
     author="noopura vaidya",
-    author_email="snshrivas3365@gmail.com",
+    author_email="noopuravaidya14@gmail.com",
     packages = find_packages(),
     install_requires=get_requirements()
 )
